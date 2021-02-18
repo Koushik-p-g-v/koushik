@@ -43,10 +43,10 @@
 [mylink](https://www.yourquote.in/koushik-p-g-v-crkec/quotes)
 
 **table**   
-|name|branch|college|
-|----|------|-------|
-|koushik|cse|vr|
-|ramu|cse|vr|
+name branch college   
+---- ------ -------
+ koushik cse vr   
+ ramu cse vr   
 
 **code**
 ```python
